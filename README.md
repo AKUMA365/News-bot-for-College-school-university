@@ -17,7 +17,6 @@ Built with **Python**, **Aiogram 3**, and **SQLAlchemy**.
 ### 🎓 For Students
 * **📚 Homework Tracker:** View the latest assignments for your group.
 * **🗓 Schedule:** Instant access to the current schedule image.
-* **✍️ Anonymous Feedback:** Send questions or suggestions to teachers anonymously.
 
 ## 🛠 Tech Stack
 
